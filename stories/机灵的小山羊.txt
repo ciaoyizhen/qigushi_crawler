@@ -1,0 +1,15 @@
+暂停
+00:01
+/
+06:01
+$(document).ready(function(){$("#jquery_jplayer_1").jPlayer({ready:function(event){$(this).jPlayer("setMedia",{mp3:"https://play.qigushi.com/mp3/20210806/机灵的小山羊_www.qigushi.com.mp3",});},supplied:"mp3",wmode:"window",useStateClassSkin:true,autoBlur:false,smoothPlayBar:true,keyEnabled:true,remainingDuration:false,toggleDuration:true});});
+牧场里生活着一群羊，其中有一只小羊很聪明，也很淘气。
+一天傍晚，牧羊人赶着羊群准备回家。小山羊却趁大家不注意偷偷的离开了羊群。
+小山羊在草原上开心地玩着，碰到一只大灰狼。
+小山羊来不及逃跑，只好假装镇定的对大灰狼说：“亲爱的狼先生，您请答应我一个小小的请求好吗？”
+“只要能保证我吃到鲜美的羊肉，什么请求我都答应。”大灰狼说。
+“我想在死前跳一支舞，请您为我伴舞吧！”小山羊说着，解下了脖子上的铃铛递给大灰狼。
+大灰狼想都没想的就接过了铃铛，使劲儿的摇了起来。
+牧羊人听到铃声找了过来，看到了大灰狼。几只牧羊犬猛的扑了过去，不一会儿大灰狼就被咬死了。
+小山羊高兴的回到了羊群中，从此再也不到处乱跑了。www.qigushi.com儿童故事
+小朋友们，今天的故事讲了什么道理呢？故事中的小山羊利用铃铛发出的声音，巧妙的让牧羊人找到了自己，真是很聪明。当我们遇到坏人时，也要学会解救自己哦！
